@@ -1,0 +1,135 @@
+nav{
+    background-color: #303030;
+    height: 80px;
+    width: 100%;
+    margin: 0;
+    padding: 0px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: 300;
+       
+    
+}
+
+li{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    float: right;
+    margin-right:  70px;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    padding-top: 160px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 10px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.logo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.bouton1 {
+    text-align: center;
+}
+
+footer{
+    align-items: flex-end;
+    background-color: #303030;
+    height: 80px;
+    margin: 0px;
+    margin-left 20px;
+    color: white;
+    max-width: 100%;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image1 {
+    background-image:element();
+}
+
+button {
+    height: 60px;
+    width: 180px;
+    color: teal;
+    border-radius: 40px;
+    border-color: teal;
+    box-shadow: black 10px;
+}
+
+a:hover {
+    color:teal
+
+}
+
+#welcome {
+    opacity: 1;
+    background-size: cover;
+    height: 400px;
+    background-image: url(https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.bloc1 {
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2689&q=80);
+    border-radius: 10px;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+
+}
+
+.bloc2 {
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2689&q=80);
+    border-radius: 10px;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+
+
+}
+
+.bloc3 {
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2689&q=80);
+    border-radius: 10px;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+
+
+}
+
+.section {
+    flex-direction: column-reverse;
+}
